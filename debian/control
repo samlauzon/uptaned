@@ -1,0 +1,13 @@
+Source: uptaned
+Maintainer: Sam Lauzon <slauzon@umich.edu>
+Section: misc
+Priority: optional
+Standards-Version: 3.9.2
+Build-Depends: debhelper (>= 9)
+
+Package: uptaned
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: uptaned
+ Mimics the bootloader of an Uptane Automotive ECU
+

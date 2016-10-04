@@ -1,0 +1,9 @@
+Package: uptaned
+Version: 1.0-1
+Architecture: amd64
+Maintainer: Sam Lauzon <slauzon@umich.edu>
+Installed-Size: 7
+Section: misc
+Priority: optional
+Description: uptaned
+ Mimics the bootloader of an Uptane Automotive ECU
